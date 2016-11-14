@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5046B5CC-6D96-9534-80DE-E3EA9DB6165A}") = "Milky Way 3D", "Assembly-CSharp.csproj", "{94A8C04D-A1F0-EF09-4875-46E403183594}"
+EndProject
+Project("{5046B5CC-6D96-9534-80DE-E3EA9DB6165A}") = "Milky Way 3D", "Assembly-CSharp-Editor.csproj", "{6D6202AA-639B-CC4C-4F01-5E94F29A19B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A8C04D-A1F0-EF09-4875-46E403183594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A8C04D-A1F0-EF09-4875-46E403183594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A8C04D-A1F0-EF09-4875-46E403183594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A8C04D-A1F0-EF09-4875-46E403183594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6202AA-639B-CC4C-4F01-5E94F29A19B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6202AA-639B-CC4C-4F01-5E94F29A19B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6202AA-639B-CC4C-4F01-5E94F29A19B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6202AA-639B-CC4C-4F01-5E94F29A19B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
